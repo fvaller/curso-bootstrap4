@@ -6,4 +6,4 @@ Arquivo: style.scss
 Copilar: sass --watch node_modules\bootstrap\scss:css
 
 #Página
-https://fernandovaller.github.io/curso-bootstrap4/
+https://fvaller.github.io/curso-bootstrap4/
